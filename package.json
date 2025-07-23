@@ -1,7 +1,6 @@
 {
   "name": "@bam.tech/react-native-make",
-  "version": "3.0.3",
-  "main": "modules/index.js",
+  "version": "3.0.4",
   "license": "MIT",
   "repository": {
     "type": "git",
