@@ -37,5 +37,12 @@
   },
   "rnpm": {
     "plugin": "./react-native.config.js"
-  }
+  },
+  "files": [
+    "src",
+    "react-native.config.js",
+    "package.json",
+    "README.md",
+    "tsconfig.json"
+  ]
 }
